@@ -1,0 +1,5 @@
+.vscode
+src/__pycache__
+*.py[cod]
+src/ctes.log
+src/ghostdriver.log
