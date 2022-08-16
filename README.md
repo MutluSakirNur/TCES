@@ -15,4 +15,4 @@ Transfer Credit Equivalency System
 <br />
 <pre></pre>
 <br />What innovations were introduced?
-    <br /><pre></pre>Instead of the traditional method, where universities can learn course equivalence by taking course content from the previous school and submitting it to the student affairs of the transferred university, thanks to this project, course equivalence is checked more quickly.
+    <br />Instead of the traditional method, where universities can learn course equivalence by taking course content from the previous school and submitting it to the student affairs of the transferred university, thanks to this project, course equivalence is checked more quickly.
